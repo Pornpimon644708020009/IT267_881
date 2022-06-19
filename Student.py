@@ -18,4 +18,4 @@ if __name__=="__main__":
     Jess.printdisplay_detail()
 
     John = Student("112","John","MKT")
-    John.printdisplay_detail()
+    John.printdisplay_detail() #อย่าลืมใส่วงเล็บนะ () #เรียก printdisplay_detail มาใช้
