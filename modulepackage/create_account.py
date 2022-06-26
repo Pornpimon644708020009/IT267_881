@@ -1,10 +1,9 @@
 from Bank.customer import Customer
 from Bank.account import Account
 
-#สร้าง obj paul
+#สร้าง obj #ไม่ว่าจะใส่ชื่ออะไรก็จะเปลี่ยนตาม
 Paul = Customer()
 Paul.new_customer()
-print() 
 
 #สร้าง obj account
 Paul_acc = Account()
