@@ -30,8 +30,8 @@ class Documentary(Movie):
         self.channel = ch
 
     def print_detail(self):  #Overlive
-        return super().print_detail()
-        print (f'Channel : {self.print_detail}')
+        super().print_detail()
+        print (f'Channel : {self.channel}')
 
 #สร้าง Obj 
 if __name__=='__main__':
