@@ -39,5 +39,5 @@ if __name__=='__main__':
     m1._add_movie('My Octopus Teacter',2020,'Documentary')
     m1.add_channel('NetFlix')
     #ถ้าจะใช้ Private method ต้องเรียกผ่าน Class mom โดยตรง เรียก private method : _className__privtenethod()
-    #m1._Movie__getmovie_detail()  
+    #m1._Movie__getmovie_detail()
     m1.print_detail()
